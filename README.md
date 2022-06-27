@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khafido
-- 👀 I’m interested in Backend
+- 👀 I’m interested in Backend. I'm using Java (Spring Boot) and React (NextJs) on a daily basis.
 - 🌱 I’m currently learning Go, NodeJS, Docker, etc
 - 📫 How to reach me: khafido.work@gmail.com
 
