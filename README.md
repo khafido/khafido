@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go, TypeScript, Docker, etc
 - 📫 How to reach me: khafido.work@gmail.com
 
-[http://khafido-web.vercel.app/](https://tinyurl.com/khafido-journey)
+[Khafido's Journey](https://www.notion.so/Khafido-s-Journey-b3c45030dff343549f1df22fe7d74346)
 
 <!---
 khafido/khafido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
